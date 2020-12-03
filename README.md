@@ -2,6 +2,6 @@
 DATA 115 Personal Dataset Project
 
 
-![Monthly Listeners vs. Ranking of Song](https://raw.githubusercontent.com/jeb199/Personal_Dataset/master/Music_Data.png)
+![Ranking of Song vs Monthly Listeners](https://raw.githubusercontent.com/jeb199/Personal_Dataset/master/Music_DataChart.png)
 
 This figure shows monthly listeners of the band compared to the ranking of the individual song.
